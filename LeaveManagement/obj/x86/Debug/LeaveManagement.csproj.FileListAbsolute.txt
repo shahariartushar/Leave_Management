@@ -1,0 +1,11 @@
+D:\29137\Projects\LeaveManagement\LeaveManagement\bin\Debug\LeaveManagement.exe
+D:\29137\Projects\LeaveManagement\LeaveManagement\bin\Debug\LeaveManagement.pdb
+D:\29137\Projects\LeaveManagement\LeaveManagement\obj\x86\Debug\LeaveManagement.AdminForm.resources
+D:\29137\Projects\LeaveManagement\LeaveManagement\obj\x86\Debug\LeaveManagement.EmployeeForm.resources
+D:\29137\Projects\LeaveManagement\LeaveManagement\obj\x86\Debug\LeaveManagement.LoginForm.resources
+D:\29137\Projects\LeaveManagement\LeaveManagement\obj\x86\Debug\LeaveManagement.Properties.Resources.resources
+D:\29137\Projects\LeaveManagement\LeaveManagement\obj\x86\Debug\LeaveManagement.RegisterForm.resources
+D:\29137\Projects\LeaveManagement\LeaveManagement\obj\x86\Debug\LeaveManagement.csproj.GenerateResource.Cache
+D:\29137\Projects\LeaveManagement\LeaveManagement\obj\x86\Debug\LeaveManagement.exe
+D:\29137\Projects\LeaveManagement\LeaveManagement\obj\x86\Debug\LeaveManagement.pdb
+D:\29137\Projects\LeaveManagement\LeaveManagement\obj\x86\Debug\LeaveManagement.csprojResolveAssemblyReference.cache
